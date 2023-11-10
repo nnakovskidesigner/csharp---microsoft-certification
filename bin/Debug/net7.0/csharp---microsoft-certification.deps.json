@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "TestProject/1.0.0": {
+      "csharp---microsoft-certification/1.0.0": {
         "runtime": {
-          "TestProject.dll": {}
+          "csharp---microsoft-certification.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TestProject/1.0.0": {
+    "csharp---microsoft-certification/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

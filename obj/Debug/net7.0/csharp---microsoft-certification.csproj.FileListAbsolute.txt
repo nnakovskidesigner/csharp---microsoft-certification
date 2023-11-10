@@ -1,0 +1,14 @@
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\bin\Debug\net7.0\csharp---microsoft-certification.exe
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\bin\Debug\net7.0\csharp---microsoft-certification.deps.json
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\bin\Debug\net7.0\csharp---microsoft-certification.runtimeconfig.json
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\bin\Debug\net7.0\csharp---microsoft-certification.dll
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\bin\Debug\net7.0\csharp---microsoft-certification.pdb
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.AssemblyInfoInputs.cache
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.AssemblyInfo.cs
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.csproj.CoreCompileInputs.cache
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.dll
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\refint\csharp---microsoft-certification.dll
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.pdb
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\csharp---microsoft-certification.genruntimeconfig.cache
+C:\Users\nakov\Documents\GitHub\csharp---microsoft-certification\obj\Debug\net7.0\ref\csharp---microsoft-certification.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\CsharpProjects\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\CsharpProjects\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\csharp---microsoft-certification.csproj",
+      "projectName": "csharp---microsoft-certification",
+      "projectPath": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\csharp---microsoft-certification.csproj",
       "packagesPath": "C:\\Users\\nakov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\CsharpProjects\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\nakov\\Documents\\GitHub\\csharp---microsoft-certification\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nakov\\AppData\\Roaming\\NuGet\\NuGet.Config",
