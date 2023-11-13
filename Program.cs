@@ -1,10 +1,23 @@
-﻿Random dice = new Random();
-int roll1 = dice.Next();
-int roll2 = dice.Next(101);
-int roll3 = dice.Next(50, 101);
+﻿/* string[] fraudulentOrderIDs = new String[3];
 
-Console.WriteLine($"First roll: {roll1}");
-Console.WriteLine($"Second roll: {roll2}");
-Console.WriteLine($"Third roll: {roll3}");
+fraudulentOrderIDs[0] = "A123";
+fraudulentOrderIDs[1] = "B345";
+fraudulentOrderIDs[2] = "C678";
+// fraudulentOrderIDs[3] = "D000";
 
-dice.Next(int)
+*/
+
+
+string[] fraudulentOrderIDs = {"A123","B456","C789"};
+
+
+Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+
+
+fraudulentOrderIDs[0] = "F000";
+
+Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}");
+
+Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process.");
